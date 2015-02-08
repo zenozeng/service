@@ -2,6 +2,12 @@
 
 互联网服务
 
+## Pay
+
+### Gratipay (Gittip)
+
+https://gratipay.com
+
 ## 互联网出版
 
 ### 豆瓣阅读作者
