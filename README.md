@@ -12,6 +12,10 @@
 
     京东应用引擎，提供支持Java、Ruby、Python、PHP、Node.js等多种语言的、弹性的服务端运行环境，帮助开发者快速开发并部署应用。
 
+## Baas
+
+- AVOS Cloud
+
 ## Pay
 
 ### Gratipay (Gittip)
