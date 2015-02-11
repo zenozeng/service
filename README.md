@@ -52,3 +52,7 @@ http://read.douban.com/submit/
 面向独立创作者的在线商店，将数字作品直接卖给受众，支付宝支付，邮件送达。
 
 https://selfstore.io/
+
+### Links
+
+- [《如何通过互联网出版一本小书》](http://ftqq.com/2015/02/howto-publish-a-book-online/)
